@@ -1,9 +1,5 @@
 ## Olá! Eu sou o Mateus de Castro
 
-- 🔭 Não trabalho 
-- 🌱 Estudando Python
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDeCastro&layout=compact&theme=tokyonight&langs_count=10&card_width=335)
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusDeCastro&show_icons=true&theme=tokyonight&card_width=300)
 
