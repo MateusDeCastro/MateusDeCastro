@@ -5,7 +5,7 @@
 
 # Technologies 
 
- [![My Skills](https://skillicons.dev/icons?i=py,django,html,css,bootstrap)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css)](https://skillicons.dev)
  
 # Contatos
 <a href="https://www.linkedin.com/in/MateusDeCastro/" target="_blank">
