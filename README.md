@@ -8,7 +8,7 @@
  [![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css)](https://skillicons.dev)
  
 # Contatos
-<a href="www.linkedin.com/in/mateus-aranha" target="_blank">
+<a href="https://www.linkedin.com/in/mateus-aranha" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:mateuscfaranha@gmail.com?subject=Assunto%20do%20Email&body=Corpo%20do%20email">
