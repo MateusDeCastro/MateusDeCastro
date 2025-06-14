@@ -6,7 +6,7 @@ Sou desenvolvedor apaixonado por criar soluções inovadoras utilizando tecnolog
 
 Aqui estão algumas das tecnologias que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,javascript)](https://skillicons.dev)
 
 ## 📊 Estatísticas do GitHub
 
