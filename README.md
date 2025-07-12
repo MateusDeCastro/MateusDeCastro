@@ -11,7 +11,6 @@ Aqui estão algumas das tecnologias que utilizo:
 ## 📊 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDeCastro&layout=compact&theme=tokyonight&langs_count=10&card_width=335)
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusDeCastro&show_icons=true&theme=tokyonight&card_width=300)
 
 ## 🌍 Como me encontrar
 
