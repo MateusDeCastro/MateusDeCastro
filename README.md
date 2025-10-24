@@ -6,8 +6,7 @@ Sou desenvolvedor apaixonado por criar soluções inovadoras utilizando tecnolog
 
 Aqui estão algumas das tecnologias que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,javascript,azure,cs,cpp,mysql)](https://skillicons.dev)
-<link rel="stylesheet" href="https://static.oracle.com/cdn/fnd/gallery/2004.1.0/OracleFont/OracleFont.min.css" type="text/css">
+[![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,javascript,azure,cs,cpp,postgresql)](https://skillicons.dev)
 
 ## 📊 Estatísticas do GitHub
 
