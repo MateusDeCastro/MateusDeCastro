@@ -7,6 +7,7 @@ Sou desenvolvedor apaixonado por criar soluções inovadoras utilizando tecnolog
 Aqui estão algumas das tecnologias que utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,javascript,azure,cs,cpp,mysql)](https://skillicons.dev)
+<link rel="stylesheet" href="css/font-apex.min.css?v=2.2" type="text/css" />
 
 ## 📊 Estatísticas do GitHub
 
