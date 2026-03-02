@@ -16,17 +16,9 @@ Tenho experiência na construção de APIs, integração com bancos de dados e d
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusDeCastro&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDeCastro&layout=compact)
-
----
-
 ## 🌍 Contato
 
-[LinkedIn](https://www.linkedin.com/in/mateus-aranha)
+<a href="https://www.linkedin.com/in/mateus-aranha" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 ---
 
