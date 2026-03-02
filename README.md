@@ -1,22 +1,35 @@
-# Olá, eu sou o Mateus de Castro 👋
+# 👋 Olá, eu sou o Mateus de Castro
 
-Sou desenvolvedor apaixonado por criar soluções inovadoras utilizando tecnologias como Python, Django, HTML, CSS e muito mais. Estou sempre em busca de novos desafios e aprendizados!
+💻 Desenvolvedor Back-end com foco em **C# (.NET)** e estudando **Java**.
+
+Tenho experiência na construção de APIs, integração com bancos de dados e desenvolvimento de sistemas web. Busco sempre evoluir tecnicamente e aplicar boas práticas como código limpo e arquitetura organizada.
+
+---
 
 ## 🚀 Tecnologias
 
-Aqui estão algumas das tecnologias que utilizo:
+- **Back-end:** C# (.NET), Java  
+- **Banco de dados:** PostgreSQL  
+- **Web:** HTML, CSS, JavaScript  
+- **Cloud:** Azure  
+- **Outros:** Python, Django  
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,javascript,azure,cs,cpp,postgresql)](https://skillicons.dev)
+---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDeCastro&layout=compact&theme=tokyonight&langs_count=10&card_width=335)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusDeCastro&show_icons=true&theme=default)
 
-## 🌍 Como me encontrar
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDeCastro&layout=compact)
 
-Você pode me encontrar nas seguintes plataformas:
+---
 
-<a href="https://www.linkedin.com/in/mateus-aranha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+## 🌍 Contato
 
+[LinkedIn](https://www.linkedin.com/in/mateus-aranha)
+
+---
+
+## 📌 Objetivo
+
+Atuar como desenvolvedor back-end utilizando **.NET e Java**, contribuindo com soluções eficientes e escaláveis.
