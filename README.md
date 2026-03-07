@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Mateus de Castro
 
-💻 Desenvolvedor Back-end com foco em **C# (.NET)** e estudando **Java**.
+💻 Desenvolvedor Back-end com foco em **C# (.NET)**
 
 Tenho experiência na construção de APIs, integração com bancos de dados e desenvolvimento de sistemas. Busco sempre evoluir tecnicamente e aplicar boas práticas como código limpo e arquitetura organizada.
 
