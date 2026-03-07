@@ -7,7 +7,7 @@ Tenho experiência na construção de APIs, integração com bancos de dados e d
 
 ## 🚀 Tecnologias
 
-- **Back-end:** C# (.NET), Java  
+- **Back-end:** C# (.NET)
 - **Banco de dados:** PostgreSQL  
 - **Cloud:** Azure  
 - **Outros:** Python, Django  
