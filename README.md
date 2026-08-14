@@ -21,3 +21,7 @@ Tenho experiência na construção de APIs, integração com bancos de dados e d
 ## 📌 Objetivo
 
 Atuar como desenvolvedor back-end utilizando **.NET e Java**, contribuindo com soluções eficientes e escaláveis.
+
+## Linguagens
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jreluiz&layout=compact&theme=dracula&langs_count=12&hide=jupyter%20notebook,html&include_all_commits=true" />
+</div>
